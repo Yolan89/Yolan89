@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**Yolan89/Yolan89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Mitz
 
-Here are some ideas to get you started:
+💻 Front-End Developer Junior  
+🌱 Aprendiendo TypeScript y Vue  
+🚀 Buscando mi primera oportunidad en desarrollo web  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Vue
+- Git
+
+## Proyectos
+
+### 🌱 Mood Garden
+Proyecto personal para registrar estados de ánimo y hacer crecer un jardín virtual.
+
+### 🍽️ Antojitos Ofe
+Aplicación web para gestión y visualización de productos desarrollada con Vue y Strapi.
+
+## Actualmente
+
+🐢 Practicando JavaScript y TypeScript todos los días.  
+📚 Aprendiendo nuevas tecnologías y fortaleciendo mis bases de desarrollo web.
